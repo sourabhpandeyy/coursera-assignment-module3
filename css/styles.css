@@ -51,12 +51,12 @@ body {
 #nav-list a {
     /*text-align: center;*/
     font-weight: bolder;
-    color: #282828;
+    color: #FF0000;
     font-size: 1.2em;
 }
 
 #nav-list a:hover {
-    color: #202020;
+    color: #FF00FF;
     background-color: #fce29e;
 }
 
